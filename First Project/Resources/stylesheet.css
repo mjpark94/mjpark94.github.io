@@ -1,7 +1,7 @@
 html {font-family: Helvetica}
 #title {background-image:url('./first_banner.png')}
-h1 {text-align:center, color:white}
-h3 {text-align:center, color:white}
+h1 {text-align:center; color:white}
+h3 {text-align:center; color:white}
 
 figure {align:center}
 
