@@ -1,8 +1,13 @@
-html {font-family: Helvetica}
-#title {background-image:url('./first_banner.png')}
+html {font-family: Helvetica; background-color:darkcyan; color:white}
+#title {background-image:url('./first_banner.png'); opacity: 0.5}
 h1 {text-align:center; color:white}
 h3 {text-align:center; color:white}
 
 figure {align:center}
 
 nav {border: 1px}
+
+#about_me {border: 3px; border-color: whitesmoke;}
+#goals {border: 3px; border-color:whitesmoke; text-align:center}
+table th{text-align:left; background-color: cyan; color:white; padding: 4px 30px 4px 8px;}
+table td {border: 1px solid; color:gray; padding 4px 8px }
