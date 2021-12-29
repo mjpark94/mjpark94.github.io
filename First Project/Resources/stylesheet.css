@@ -1,7 +1,6 @@
 html {font-family: Helvetica; background-color:darkcyan; color:white}
-#title {background-image:url('./first_banner.png'); opacity: 0.5}
-h1 {text-align:center; color:white}
-h3 {text-align:center; color:white}
+h1 {text-align:center; color:white; padding: 6px 6px 6px 6px}
+h3 {text-align:center; color:white; padding: 6px 6px 6px 6px}
 
 figure {align:center}
 
