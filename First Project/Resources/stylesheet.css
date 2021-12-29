@@ -1,11 +1,14 @@
 html {font-family: Helvetica; background-color:darkcyan; color:white}
 #title {text-align:center; color:white; padding: 6px 6px 6px 6px; background-image: url('./first_banner.png')}
 
-figure {align:center}
+img {align:center}
 
 nav {border: 1px}
 
-#about_me {border: 3px; border-color: whitesmoke; text-align:center}
+#about_me {border: 3px; border-color: whitesmoke; text-align:justify}
 #goals {border: 3px; border-color:whitesmoke; text-align:center}
+table {text-align: center}
 table th{text-align:left; background-color: cyan; color:white; padding: 4px 30px 4px 8px;}
-table td {border: 1px solid; color:gray; padding 4px 8px }
+table td {border: 1px solid; border-color:black; color:white; padding 4px 8px }
+
+#contact {text-align:left}
